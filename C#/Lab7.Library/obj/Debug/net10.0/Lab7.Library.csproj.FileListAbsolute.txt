@@ -1,0 +1,12 @@
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/bin/Debug/net10.0/Lab7.Library.deps.json
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/bin/Debug/net10.0/Lab7.Library.dll
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/bin/Debug/net10.0/Lab7.Library.pdb
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.AssemblyInfoInputs.cache
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.AssemblyInfo.cs
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.csproj.CoreCompileInputs.cache
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.sourcelink.json
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.dll
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/refint/Lab7.Library.dll
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/Lab7.Library.pdb
+/Users/elizavetarevun/Desktop/Lab7/C#/Lab7.Library/obj/Debug/net10.0/ref/Lab7.Library.dll
